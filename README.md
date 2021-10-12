@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @samgmorrone
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently working at IBM as a Hardware Test Technican
+- 📫 How to reach me sam.g.morrone@gmail.com
 
 <!---
 samgmorrone/samgmorrone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
